@@ -1,5 +1,7 @@
 netid: emaness
+
 ghid: emaness-utk
+
 name: Ethan Maness
 
 I am a first-year graduate student pursuing an M.S. in Computer Science.
