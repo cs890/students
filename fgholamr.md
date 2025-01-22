@@ -1,6 +1,6 @@
-netid: Fgholamr
+NetID: Fgholamr
 
-ghid: GitFarzin
+GHID: GitFarzin
 
 Name: Farzin Gholamrezae
 
