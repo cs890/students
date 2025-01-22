@@ -1,5 +1,7 @@
 netid: vkonjet1
+
 ghid: Vinni0627
+
 name: Vineeth Konjeti
 
 I am a 4th year undergraduate doing the 5-year MSBS program here at UTK. I am interested in ML/AI, data analytics, and data visualization. I expect to learn more about how to structure complex software systems in a more modular and maintainable way and I want to learn about how to handle and process massive datasets and incorporate it with ML components.
